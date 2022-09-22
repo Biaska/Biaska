@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Biaska
+- 🌱 I’m currently attending OSU's CS program. 
