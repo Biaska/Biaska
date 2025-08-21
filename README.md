@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Biaska
-- 🌱 I’m currently attending OSU's CS program. 
+- Hi, I’m @Biaska
+- Curious software engineer who enjoys learning how technology can improve and enrich our lives. 
